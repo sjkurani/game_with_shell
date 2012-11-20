@@ -20,7 +20,7 @@ Just start the game and follow the instruction's.To play this game you have to o
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 ++++++++++++++++++++++++++++++++++++++ HOW CAN I DEVELOPE(CONTRIBUTE TO) THIS GAME++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-         From this game we learn some skills to use open source softwares and also we can share our skills with others.if you want to share any skills(related to the commands and shells) with others then just write two shell scripts one for instruction that is what the player have to do and another one is for verification for that instruction and add that both scripts in the gameofshell folder by changing the permission to 777 0r 555(By giving execution permission to that files). 
+         From this game we learn about some commands & skills to use open source softwares(UNIX) and also we can share our skills with others.if you want to share any skills(related to the commands and shells) with others then just write two shell scripts one for instruction that is what the player have to do and another one is for verification for that instruction and add that both scripts in the game_with_shell folder by changing the permission to 777 0r 555(By giving execution permission to that files). 
 
           we can make use of the commands which normally get execute in all GNU/Linux's distributions and add them as a level. make this game helpful to those guys who are new to the world of open source and free software. So start adding the Levels.
 

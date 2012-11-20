@@ -1,0 +1,4 @@
+cd ~/Desktop 
+if [ -e $USER ];then
+rm  -r $USER
+fi

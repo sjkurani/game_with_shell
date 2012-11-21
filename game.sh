@@ -56,8 +56,6 @@ score=50
 echo "Now You became master of this game"
 
 echo "Your final score is "$score
-
-		 echo "vale"$value
 else
 echo "enter correct input"
 fi

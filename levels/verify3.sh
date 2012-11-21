@@ -6,7 +6,7 @@ echo "You didnt gave input to  file $USER
 enter the hostname into the file"
 echo " "
 fi
-cd ~/game_with_shell/levels/
+cd ~/game_with_shell*/levels/
 hstname=`uname -n`
 if [ $hname = $hstname ]; then 
 value=1

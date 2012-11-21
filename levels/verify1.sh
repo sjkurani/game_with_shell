@@ -5,7 +5,7 @@ cd ~/Desktop/$USER
 if [ -f $USER ];then
 echo " good" > $USER
 echo "Good you are done with 1st level" 
-cd ~/game_with_shell/levels/
+cd ~/game_with_shell*/levels/
 value=1 
 else	
 value=0 
